@@ -1,2 +1,2 @@
-FurniCrafted 
- Built an e-commerce platform for browsing and buyingfurniture, with user login, product search, and admin tools to manage items, orders, and users.
+Payroll Pulse
+Developed an admin-based system to manage employee details, attendance, and salary calculations, reducing manual work through automation.
